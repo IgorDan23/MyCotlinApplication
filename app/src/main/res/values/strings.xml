@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Cotlin Application</string>
+    <string name="data_class">Data Class</string>
+    <string name="copy">Copy</string>
+    <string name="cycle">Цикл</string>
+    <string name="print_class">Вывести Класс</string>
+    <string name="copy_class">Копировать класс</string>
+    <string name="run_cycle">Запустить цикл</string>
 </resources>
